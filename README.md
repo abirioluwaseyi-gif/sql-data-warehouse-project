@@ -1,4 +1,3 @@
-Here's a cleaner, more professional GitHub README layout with improved formatting and wording.
 
 # 📊 Data Warehouse & Analytics Project
 
@@ -109,4 +108,3 @@ This project is licensed under the **MIT License**.
 
 You are free to use, modify, and distribute this project with proper attribution.
 
-This version follows common GitHub README conventions with clear sections, icons for readability, consistent headings, and polished wording. It should present well as a portfolio project.
